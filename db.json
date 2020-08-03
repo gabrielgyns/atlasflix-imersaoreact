@@ -1,0 +1,16 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "nome": "Front-end",
+            "descricao": "Videos para os magos do 'fronti'",
+            "cor": "#cbd1ff"
+        },
+        {
+            "id": 2,
+            "nome": "Back-end",
+            "descricao": "Videos para os rangers do 'bécki'",
+            "cor": "#00C86F"
+        }
+    ]
+}
